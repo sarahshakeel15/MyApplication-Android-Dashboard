@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/module1Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module 1 - Login &amp; Registration" />
+
+    <Button
+        android:id="@+id/module2Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module 2 - User Profile" />
+
+    <Button
+        android:id="@+id/module3Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module 3 - Settings" />
+
+    <Button
+        android:id="@+id/module4Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Module 4 - Reports" />
+
+</LinearLayout>
